@@ -1,0 +1,8 @@
+{
+    "name": "scultureai",
+    "version": "1.0.0",
+    "author": "shweta",
+    "dependencies": {
+        "serverless-python-requirements": "^5.0.1"
+    }
+}
